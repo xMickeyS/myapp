@@ -1,5 +1,5 @@
 package myapp;
 
 public class Cat {
-    private String age;
+    private String name;
 }
